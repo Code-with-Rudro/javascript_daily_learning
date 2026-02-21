@@ -1,3 +1,4 @@
+//day-1 PQ (practice question).
 /*Q1 - write a code which can give grade to student according to their scores:
 
   90 - 100 = A,
