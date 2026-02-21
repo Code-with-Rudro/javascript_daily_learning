@@ -63,3 +63,41 @@ console.log("atleast one conditation ", (con1 || con2));
 console.log("even not any conditation true", !(kiran == rudra));
 
 
+//CONDITATIONAL STATEMENT 
+// To impliment some conditation in the code
+
+//IF STATEMENT
+let mode="dark";
+let colour  ;
+
+if(mode="dark")
+{
+    colour="black";
+}
+console.log(colour)
+
+//IF-ELSE STATEMENT
+let age = 19;
+if(age > 18){
+    console.log("acces grant", age);
+} 
+else{
+    console.log("acces not grant", age);
+}
+
+
+//ELSE-IF STATEMENT 
+
+let mark = 12;
+
+if(mark>50 && mark<=75){
+    console.log("a grade", mark);
+    
+}
+else if(mark>30 && mark<=49) {
+    console.log("b grade", mark);
+      
+} 
+else{
+    console.log("f grade", mark);
+}
