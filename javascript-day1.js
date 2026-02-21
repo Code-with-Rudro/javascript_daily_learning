@@ -63,5 +63,3 @@ console.log("atleast one conditation ", (con1 || con2));
 console.log("even not any conditation true", !(kiran == rudra));
 
 
-
-
