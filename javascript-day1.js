@@ -101,3 +101,12 @@ else if(mark>30 && MARK<=49) {
 else{
     console.log("f grade", mark);
 }
+
+//ALERT
+//  it will poppop a massege 
+alert("well come ");
+
+//prompt
+// it will provide a input box.
+
+prompt("rate me 1-5");
