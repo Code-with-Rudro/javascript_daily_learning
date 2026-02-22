@@ -42,3 +42,4 @@
    
  }
  console.log("your entering number is right", usrnum);
+ //day 2.
