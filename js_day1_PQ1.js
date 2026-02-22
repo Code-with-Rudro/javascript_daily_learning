@@ -24,3 +24,21 @@
   else{
     console.log("student get F grade")
   }
+
+  //PQ-1, DAY-2
+  // TO PRINT EVEM NUMBERS 0-100;
+  for(let i = 0;i<=100; i++){
+    if(i%2==0){
+        console.log("even=",i);
+    }
+    
+  }
+
+  // PQ-2 RANDOM NUMBER GUSSING
+ let gmnum = 25;
+ let usrnum = prompt("enter yor number");
+ while(usrnum!=gmnum){
+   usrnum= prompt(" re enter yor number");
+   
+ }
+ console.log("your entering number is right", usrnum);
