@@ -110,3 +110,51 @@ alert("well come ");
 // it will provide a input box.
 
 prompt("rate me 1-5");
+
+//DAY-2;
+
+//LOOPS IN JS
+// Loops are used to execute a pice of code again and again.
+//types of loops
+/*
+1.for loop,
+2. while loop,
+3. do-while loop,
+4. for-of loop  (used for strings,arrays)
+5. for-in loop   (used for objects)
+*/
+
+//FOR LOOP :
+for(i=1;i<=5;i++){
+    console.log("num=", i); // execute 1 to 5
+}
+
+//WHILE LOOP :
+let me = 1;
+while(me>=10){
+    console.log("number =", em);
+    em++;
+}
+//DO-WHILE LOOP :
+do{
+    console.log("do print is =", em);
+    em++;
+}while(em>=7);
+
+ //FOR-OF LOOP :
+ let name="RUDRA";
+ for(let i of name){
+  console.log("i=",i);
+ }
+
+ // FOR-IN LOOP :
+ let stu={
+    name : "kiran",
+    age : 18,
+    cgpa : 7.2,
+
+ };
+
+ for(let i in stu){
+    console.log("key =",i,"values", stu[i]);
+ }
