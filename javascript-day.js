@@ -158,3 +158,29 @@ do{
  for(let i in stu){
     console.log("key =",i,"values", stu[i]);
  }
+
+ //STRING CONCEPT :
+
+ // string is a sequence of characaters used to represent the text 
+
+ // create a string
+
+ let str = "Siva sankar"
+
+ //length
+
+ console.log(str.length);
+
+ //string indices
+ 
+ console.log(str[0]);
+
+ console.log(str[3]);
+
+ //template literals 
+
+ console.log(`he is my best friend ${str}`);
+
+ //string slice
+ //                    st end?
+ console.log(str.slice( 1, 3));

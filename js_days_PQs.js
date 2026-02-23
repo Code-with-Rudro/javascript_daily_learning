@@ -43,3 +43,16 @@
  }
  console.log("your entering number is right", usrnum);
  
+day-3
+
+//PQ-1 RANDOM USER NAME GENERATING :
+// prompt the user to enter their full name, generate fullname based on the output, start username with "@", followed by their fullname and ending with full name leanth,
+
+// ex- kirankumar       outpot - @kirankumar10
+
+let user = prompt("enter your fullname");
+console.log(`@${user.toUpperCase(user)}${user.length}`);
+
+
+
+
