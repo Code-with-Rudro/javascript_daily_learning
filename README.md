@@ -99,3 +99,74 @@ Stay tuned for **Day 2** 💻✨
 ---
 
 > "Small daily improvements lead to big results."
+
+# 🚀 JavaScript Learning Challenge
+
+## 📅 Day 2 – Mastering Loops
+
+Welcome to Day 2 of my JavaScript learning journey! 💻✨  
+Today, I explored one of the most important concepts in programming — **Loops**.
+
+I am continuing my learning from the Apna College YouTube Channel JavaScript Tutorial series, and each day I feel more confident with JavaScript fundamentals.
+
+---
+
+## 📚 Topics Covered Today
+
+Today I completed:
+
+- ✅ for loop  
+- ✅ while loop  
+- ✅ do...while loop  
+- ✅ for...of loop  
+- ✅ for...in loop  
+
+Understanding loops helped me learn how to repeat tasks efficiently instead of writing repetitive code.
+
+---
+
+## 🧠 Practice Problems Solved
+
+### 1️⃣ Finding Even Numbers (1–100)
+
+I wrote a program to:
+- Print all even numbers between 1 and 100  
+- Use loop logic with condition checking  
+
+This helped me understand iteration and conditional logic together.
+
+---
+
+### 2️⃣ Number Guessing Game 🎯
+
+I built a simple number guessing game where:
+- The system selects a number
+- The user guesses the number
+- The loop runs until the correct number is guessed
+
+This was a fun way to apply loops in a real-world mini project!
+
+---
+
+## 💡 What I Learned
+
+- How loops reduce code repetition  
+- When to use different types of loops  
+- How logic building improves with practice  
+- How small projects improve understanding  
+
+---
+
+## 🎯 Challenge Goal
+
+- Learn daily  
+- Practice consistently  
+- Push code to GitHub  
+- Improve problem-solving skills  
+
+---
+
+🔥 Day 2 Complete!  
+Excited to continue learning and building.
+
+Stay tuned for Day 3 🚀
