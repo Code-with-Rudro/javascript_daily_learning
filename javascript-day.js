@@ -209,5 +209,24 @@ do{
  for(let i=0; i<arr.length; i++){
     console.log(arr[i]);
  }
+// Array methods
+
+let exx=[100,200,300,400];
+let exx2=[10,20];
+
+
+//push 
+console.log(exx.push(222)); // it will add values in the end of array.
+console.log(exx); //exx=[100,200,300,400,222];
+
+
+//pop
+console.log(exx.pop()); // it will return the END deleted value. 222 delete 
+
+
+//tostring
+
+console.log(exx.toString()); // it will convert the arrays values into string values.
+
 
 
