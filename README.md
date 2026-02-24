@@ -170,3 +170,81 @@ This was a fun way to apply loops in a real-world mini project!
 Excited to continue learning and building.
 
 Stay tuned for Day 3 🚀
+
+# 🚀 JavaScript Learning Challenge
+
+## 📅 Day 3 – Exploring Strings
+
+Welcome to Day 3 of my JavaScript learning journey! 💻✨  
+
+Today I focused on understanding **Strings** — one of the most commonly used data types in JavaScript.
+
+I am continuing my learning from the Apna College YouTube JavaScript tutorial series and strengthening my fundamentals step by step.
+
+---
+
+## 📚 Topics Covered Today
+
+✅ String Basics  
+✅ String Methods / Functions  
+✅ Template Literals  
+✅ Practice Problem – Username Generator  
+
+---
+
+## 🧠 What I Learned
+
+### 🔹 String Concepts
+- How strings store text data
+- String indexing
+- String immutability
+
+### 🔹 String Functions
+- length property
+- toUpperCase()
+- toLowerCase()
+- trim()
+- slice()
+- concat()
+
+These methods helped me understand how to manipulate and format text data efficiently.
+
+### 🔹 Template Literals
+I learned how to use backticks (` `) to:
+- Insert variables inside strings
+- Create dynamic strings
+- Write cleaner and more readable code
+
+---
+
+## 🎯 Practice Problem – Username Generator
+
+I solved a problem where:
+
+- A full name is given as input
+- The program creates a username
+- The username is generated using the name + its length
+
+Example:
+Full Name: John Doe  
+Username: johndoe8  
+
+This problem helped me combine:
+- String manipulation
+- Length property
+- Basic logic building
+
+---
+
+## 🔥 Progress So Far
+
+- ✅ Day 1 – Variables, Data Types, Operators, Conditionals  
+- ✅ Day 2 – Loops & Mini Projects  
+- ✅ Day 3 – Strings & String Methods  
+
+---
+
+Consistency is my goal.  
+Small daily improvements are building strong fundamentals.
+
+Excited for Day 4 🚀
