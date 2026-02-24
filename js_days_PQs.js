@@ -53,6 +53,20 @@ day-3
 let user = prompt("enter your fullname");
 console.log(`@${user.toUpperCase(user)}${user.length}`);
 
+// DAY-4 PRATICE QUESTION 
+//PQS-4
+
+// Q - for a given array with marks of students -> [85,97,44,37,76,60] find the average mark of the array ?
+
+let stu=[85,97,44,37,76,60];
+let sum=0;
+for(i=0;i<stu.length;i++){
+  sum+=stu[i];
+}
+
+ console.log(sum);
+let avg = sum/stu.length;
+console.log(avg);
 
 
 

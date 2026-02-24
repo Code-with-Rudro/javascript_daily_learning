@@ -196,11 +196,18 @@ do{
 
  // to return specific value in an array
 
- arr[1];
+ console.log(arr[1]);
 
  arr[3];
 
  arr[2] = 200;  // change the specific value
 
- 
+ // LOOP OVER AN ARRAY :
+
+ // to print all items in array ;
+
+ for(let i=0; i<arr.length; i++){
+    console.log(arr[i]);
+ }
+
 
