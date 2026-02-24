@@ -184,3 +184,23 @@ do{
  //string slice
  //                    st end?
  console.log(str.slice( 1, 3));
+
+ // ARRAYS IN JAVASCRIPT :
+
+ // array is collection of similar items.
+
+ let arr =[10,20,30,40];
+ console.log(arr);
+
+ // ARRAY INDICES :
+
+ // to return specific value in an array
+
+ arr[1];
+
+ arr[3];
+
+ arr[2] = 200;  // change the specific value
+
+ 
+
