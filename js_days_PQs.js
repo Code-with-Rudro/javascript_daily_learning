@@ -43,7 +43,7 @@
  }
  console.log("your entering number is right", usrnum);
  
-day-3
+//day-3
 
 //PQ-1 RANDOM USER NAME GENERATING :
 // prompt the user to enter their full name, generate fullname based on the output, start username with "@", followed by their fullname and ending with full name leanth,
@@ -68,5 +68,13 @@ for(i=0;i<stu.length;i++){
 let avg = sum/stu.length;
 console.log(avg);
 
+//Q-2 
+// for a given array with price of 5 items -> [250,360,44,1088], all items hav 10% off in item, the array to store after applying offer ?
 
+let items=[250,360,44,1088];
+for(i=0;i<items.length;i++){
+  off=items[i]/10;
+  items[i]-=off;
 
+}
+console.log(items);
