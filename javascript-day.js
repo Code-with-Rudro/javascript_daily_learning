@@ -248,3 +248,15 @@ function sum(a,b){
 }
 let plus = sum(10,2);
 console.log(plus);
+
+
+// arrow function "=>".
+// its use for small tasks.
+// we can store function in a variable.
+
+const val = (a,b)=>{
+    return a+b;
+
+}
+
+console.log(val(100,2));
