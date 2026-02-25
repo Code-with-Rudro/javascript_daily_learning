@@ -254,9 +254,9 @@ console.log(plus);
 // its use for small tasks.
 // we can store function in a variable.
 
-const val = (a,b)=>{
+const val=(a,b)=>{
     return a+b;
-
 }
 
-console.log(val(100,2));
+console.log(val(20,30));
+

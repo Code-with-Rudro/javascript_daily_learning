@@ -79,3 +79,24 @@ for(i=0;i<items.length;i++){
 }
 console.log(items);
 
+// DAY-5
+// PQS-1
+// FUNCTION 
+// QS-1 ; create afunction using function key word that takes a string as a argument & return the number of vowels ?
+
+// ex - "CODE WITH RUDRO"
+
+function owl(str){
+  let sum=0;
+  for(const i of str){  
+    if(i==="a" || i==="e" || i==="i" || i==="o" || i==="u"){
+      sum++;
+   
+
+    }
+  }
+  console.log(sum);
+}
+
+console.log(owl("code with rudra"));
+
