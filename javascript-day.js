@@ -229,4 +229,22 @@ console.log(exx.pop()); // it will return the END deleted value. 222 delete
 console.log(exx.toString()); // it will convert the arrays values into string values.
 
 
+//DAY-5
 
+// FUNCTIONS :
+
+// block of code performs a specific task, can be involved whenever needed.
+
+function fun_name(){
+    console.log("CODE WITH RUDRA");
+}
+
+console.log(fun_name());
+
+// some of two numbers.
+function sum(a,b){
+    sol = a + b;
+    return sol;
+}
+let plus = sum(10,2);
+console.log(plus);
