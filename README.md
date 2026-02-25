@@ -248,3 +248,94 @@ Consistency is my goal.
 Small daily improvements are building strong fundamentals.
 
 Excited for Day 4 🚀
+
+# 🚀 JavaScript Learning Challenge
+
+## 📅 Day 4 – Arrays & Array Methods
+
+Welcome to Day 4 of my JavaScript learning journey! 💻✨  
+
+Today I explored one of the most important data structures in JavaScript — **Arrays**.
+
+I am continuing my learning from the Apna College YouTube JavaScript tutorial series and strengthening my core fundamentals step by step.
+
+---
+
+## 📚 Topics Covered Today
+
+✅ Array Basics  
+✅ Looping through Arrays  
+✅ Array Methods:
+- push()
+- pop()
+- concat()
+- splice()
+- slice()
+- toString()
+
+---
+
+## 🧠 What I Learned
+
+### 🔹 Array Concepts
+- How to store multiple values in a single variable
+- How array indexing works
+- How to access and update elements
+
+### 🔹 Loops with Arrays
+- Using `for` loop to iterate through array elements
+- Performing calculations using loop logic
+
+### 🔹 Array Methods
+- `push()` → Add element at the end  
+- `pop()` → Remove last element  
+- `concat()` → Merge arrays  
+- `splice()` → Add/Remove elements from specific index  
+- `slice()` → Extract part of array  
+- `toString()` → Convert array to string  
+
+These methods helped me understand how to manipulate data efficiently.
+
+---
+
+## 🎯 Practice Problems Solved
+
+### 1️⃣ Find Average of an Array
+
+Array:  
+[20, 30, 100, 28]
+
+Steps:
+- Added all elements using loop
+- Divided total by array length
+
+✅ Average = 44.5
+
+---
+
+### 2️⃣ Apply 10% Discount to Each Value
+
+Array:  
+[222, 249, 304, 339]
+
+Task:
+- Reduce each value by 10%
+- Store updated values
+
+This helped me understand how to update array elements using loops.
+
+---
+
+## 🔥 Progress So Far
+
+- ✅ Day 1 – Variables, Data Types, Operators, Conditionals  
+- ✅ Day 2 – Loops & Mini Projects  
+- ✅ Day 3 – Strings & String Methods  
+- ✅ Day 4 – Arrays & Array Manipulation  
+
+---
+
+Consistency is my priority.  
+Every day I am improving my logic-building and problem-solving skills.
+
+Excited for Day 5 🚀
