@@ -98,5 +98,21 @@ function owl(str){
   console.log(sum);
 }
 
-console.log(owl("code with rudra"));
+// console.log(owl("code with rudra"));
 
+// PQS-2
+
+// create same thing using arrow function
+
+let cnt = (str)=>{
+  let sums=0;
+  for(char=0;char<str.length;char++){
+    if(str[char]==="a" || str[char]==="e" || str[char]==="i" || str[char]==="o" || str[char]==="u" ){
+      sums++;
+
+    }
+  
+  }
+  console.log(sums);
+}
+console.log(cnt("code with rudra"));
