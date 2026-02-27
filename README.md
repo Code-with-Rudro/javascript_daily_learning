@@ -339,3 +339,87 @@ Consistency is my priority.
 Every day I am improving my logic-building and problem-solving skills.
 
 Excited for Day 5 🚀
+
+# 🚀 JavaScript Learning Challenge
+
+## 📅 Day 5 – Functions & Arrow Functions
+
+Welcome to Day 5 of my JavaScript learning journey! 💻✨  
+
+Today I explored one of the most important concepts in JavaScript — **Functions**.
+
+I am continuing my learning from the Apna College YouTube JavaScript tutorial series and building my fundamentals step by step.
+
+---
+
+## 📚 Topics Covered Today
+
+✅ Function Basics  
+✅ Function inside Loops  
+✅ Arrow Functions  
+✅ Practice Problem – Finding Vowels  
+
+---
+
+## 🧠 What I Learned
+
+### 🔹 Functions
+- How to define a function
+- How to pass parameters
+- How to return values
+- Why functions improve code reusability
+
+Functions help organize code and make it cleaner and more efficient.
+
+---
+
+### 🔹 Functions with Loops
+I learned how to:
+- Use loops inside functions
+- Perform repeated checks and calculations
+- Combine logic effectively
+
+---
+
+### 🔹 Arrow Functions
+I explored modern ES6 arrow functions:
+- Shorter syntax
+- Cleaner code style
+- Useful for writing compact logic
+
+---
+
+## 🎯 Practice Problem – Finding Vowels
+
+Task:
+Find the number of vowels (a, e, i, o, u) in a given string.
+
+### 🔹 Approach 1:
+- Used a normal function  
+- Used a loop  
+- Used conditional statements  
+
+### 🔹 Approach 2:
+- Solved the same problem using an arrow function  
+
+This practice helped me:
+- Understand function structure deeply  
+- Improve logical thinking  
+- Compare normal functions and arrow functions  
+
+---
+
+## 🔥 Progress So Far
+
+- ✅ Day 1 – Variables, Data Types, Operators, Conditionals  
+- ✅ Day 2 – Loops & Mini Projects  
+- ✅ Day 3 – Strings & String Methods  
+- ✅ Day 4 – Arrays & Array Manipulation  
+- ✅ Day 5 – Functions & Arrow Functions  
+
+---
+
+Consistency is building confidence.  
+Every day I am improving my problem-solving skills step by step.
+
+Excited for Day 6 🚀
