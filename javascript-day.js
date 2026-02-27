@@ -260,3 +260,20 @@ const val=(a,b)=>{
 
 console.log(val(20,30));
 
+// DAY-6
+// METHODS IN JS :
+// method is a spicial type of function which merge with object is kmown as methods.
+
+// ForEach loop in array : (higher order function (imp))
+
+// forEach : callbackfunction : here it is a function to exicute for each element in the array.
+
+// a call back is a function passed as an argument to another function.
+
+// ex :-
+arr=[1,2,3,4,];
+arr.forEach((val,idx,array)=>{
+    console.log(val,idx,array);
+})
+
+

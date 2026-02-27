@@ -116,3 +116,8 @@ let cnt = (str)=>{
   console.log(sums);
 }
 console.log(cnt("code with rudra"));
+
+// DAY-6
+// PQS-1
+// For a given array of numbers,print the square of each value, using ForEach loop method.
+
