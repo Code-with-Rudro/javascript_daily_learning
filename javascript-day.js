@@ -277,3 +277,16 @@ arr.forEach((val,idx,array)=>{
 })
 
 
+//MAP METHOD 
+
+//create a new array with results of some operation.  the value its callback returns are used to form new array.
+
+//saperate the even numbers from the given array using map method :-
+
+let arrs=[10,20,30,40,50,60,70];
+
+let square = arrs.map((values)=>{
+  return  values * 2;
+})
+console.log(square)
+
