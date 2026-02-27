@@ -281,12 +281,23 @@ arr.forEach((val,idx,array)=>{
 
 //create a new array with results of some operation.  the value its callback returns are used to form new array.
 
-//saperate the even numbers from the given array using map method :-
+//ubdate the data to square values given array using map method :-
 
-let arrs=[10,20,30,40,50,60,70];
+let arrs=[10,20,30,4,3,5,70];
 
 let square = arrs.map((values)=>{
   return  values * 2;
 })
 console.log(square)
 
+//filter :
+
+// create a new array of elements that gives for a conditation/filter.
+
+// create a new array for even number based on the fiven array ?
+
+
+let fil = arrs.filter((res) =>{
+    return res%2===0;
+})
+console.log(fil)
