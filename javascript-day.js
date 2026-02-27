@@ -301,3 +301,13 @@ let fil = arrs.filter((res) =>{
     return res%2===0;
 })
 console.log(fil)
+
+// reduce :
+
+// perform some operation & reduce the array to a single value. it returns single values.
+
+let sum = arr.reduce((result,current)=>{
+    return result + current ;
+
+})
+console.log(sum);
