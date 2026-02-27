@@ -121,3 +121,9 @@ console.log(cnt("code with rudra"));
 // PQS-1
 // For a given array of numbers,print the square of each value, using ForEach loop method.
 
+let nums=[1,2,3,4];
+
+nums.forEach((val)=>{
+   
+  console.log(val*val);
+})
