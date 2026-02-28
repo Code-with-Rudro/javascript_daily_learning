@@ -423,3 +423,90 @@ Consistency is building confidence.
 Every day I am improving my problem-solving skills step by step.
 
 Excited for Day 6 🚀
+
+# 🚀 JavaScript Learning Challenge
+
+## 📅 Day 6 – Methods & Higher Order Functions
+
+Welcome to Day 6 of my JavaScript learning journey! 💻✨  
+
+Today I explored **Methods in JavaScript** and some powerful **Higher Order Functions** used with arrays.
+
+I am continuing my learning from the Apna College YouTube JavaScript tutorial series and strengthening my problem-solving skills step by step.
+
+---
+
+## 📚 Topics Covered Today
+
+✅ What is a Method?  
+👉 A method is a function associated with an object (object + function = method)
+
+✅ forEach() method (Higher Order Function)  
+✅ map() method  
+✅ filter() method  
+✅ reduce() method  
+
+---
+
+## 🧠 What I Learned
+
+### 🔹 forEach()
+- Used to iterate over arrays
+- Executes a function for each element
+- Does not return a new array
+
+### 🔹 map()
+- Creates a new array
+- Transforms each element
+- Very useful for modifying data
+
+### 🔹 filter()
+- Returns a new array based on condition
+- Helps in extracting specific values
+
+### 🔹 reduce()
+- Reduces array to a single value
+- Used for sum, product, total calculations
+
+These methods made my code cleaner and more powerful compared to traditional loops.
+
+---
+
+## 🎯 Practice Problems Solved
+
+### 1️⃣ Find Even Numbers in an Array
+- Used filter() to extract even numbers
+- Applied condition: number % 2 === 0
+
+---
+
+### 2️⃣ Multiply Each Value in an Array
+- Used map() to multiply each element
+- Returned a new modified array
+
+---
+
+### 3️⃣ Create Array Based on Input Number
+- Took a number as input
+- Generated an array from 1 to that number
+- Applied logic using loops and array methods
+
+This problem helped me understand dynamic array creation.
+
+---
+
+## 🔥 Progress So Far
+
+- ✅ Day 1 – Variables, Data Types, Operators, Conditionals  
+- ✅ Day 2 – Loops  
+- ✅ Day 3 – Strings  
+- ✅ Day 4 – Arrays  
+- ✅ Day 5 – Functions & Arrow Functions  
+- ✅ Day 6 – Methods & Higher Order Functions  
+
+---
+
+Every day I am improving my logical thinking and understanding of modern JavaScript.
+
+Consistency is my biggest focus 🚀  
+Excited for Day 7 💻✨
