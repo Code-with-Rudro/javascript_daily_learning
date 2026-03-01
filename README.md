@@ -510,3 +510,6 @@ Every day I am improving my logical thinking and understanding of modern JavaScr
 
 Consistency is my biggest focus 🚀  
 Excited for Day 7 💻✨
+.
+.
+.
