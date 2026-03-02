@@ -128,3 +128,13 @@ nums.forEach((val)=>{
   console.log(val*val);
 })
 
+//  PQS-2
+// We are given a array of mark of student,filter out the mark of that scored 90> ?
+// let inptarr =[90,20,30,99,98,96];
+let toppers = inptarr.filter((vals) =>{
+  return vals >90;
+})
+console.log(toppers);
+
+//DAY-7
+// PQS-1

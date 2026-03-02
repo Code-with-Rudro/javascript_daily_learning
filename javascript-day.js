@@ -311,3 +311,6 @@ let sum = arr.reduce((result,current)=>{
 
 })
 console.log(sum);
+
+// DAY-7
+// DOM : Document object model
